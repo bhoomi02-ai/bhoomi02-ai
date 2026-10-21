@@ -175,7 +175,7 @@ Performance analytics platform
 | Achievement | Details |
 |------------|---------|
 | 🎖️ **GDSC Campus Lead** | Leading Google Developer Student Club 2024 |
-| 🎓 **GRS Campus Ambassador** | Boston University Graduate School |
+| 🎓 **Former GRS Campus Ambassador** | Boston University Graduate School |
 | 📝 **India Book of Records** | 1 of 1000 students to launch live web server |
 | 🏆 **Top 12 Finalist** | Cognizant Digital Nurture Techno-verse 2023 |
 | 🥈 **2nd Place** | RV College Inter-College Ideathon |
