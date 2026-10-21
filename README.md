@@ -2,13 +2,13 @@
 
 # 👋 Hi, I'm Bhoomika Monthy Rajashekar
 
-### 🎓 MS in Artificial Intelligence @ Boston University | 🚀 Cloud Data Engineer | 🤖 GenAI Enthusiast
+### 🎓 MS in Artificial Intelligence @ NU | 🚀 Cloud Data Engineer | 🤖 GenAI Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhoomika-rajshekar/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhoomi02@bu.edu)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
 
-**🎖️ GDSC Campus Lead 2024 | 🎓 GRS Campus Ambassador | 📝 India Book of Records**
+**🎖️ GDSC Campus Lead 2024 | 🎓 Former GRS Campus Ambassador | 📝 India Book of Records**
 
 </div>
 
