@@ -27,7 +27,7 @@ class Bhoomika:
         # Current status
         self.education = {
             "degree": "MS in Artificial Intelligence",
-            "university": "Boston University",
+            "university": "Northeastern University",
             "graduation": "May 2027"
         }
         
