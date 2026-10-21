@@ -166,6 +166,62 @@ Performance analytics platform
 </tr>
 </table>
 
+### 🔬 Research & Recent Work
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌍 [Cross-Lingual Hallucination Drift in LLMs](https://github.com/bhoomi02-ai/Cross-Lingual-Hallucination-Drift-in-LLMs)
+**Completed | NLP Research**
+
+Is hallucination drift task-dependent across languages?
+- Tech: `Python` `Aya Expanse 8B` `GPT-4o-mini` `LLM-as-a-Judge`
+- 🧪 TruthfulQA vs XCOPA in English, Spanish, Italian, Swahili
+- 📉 Found **+90.67 pp** drift on Swahili XCOPA vs negligible on TruthfulQA
+- 🔍 Within-language test shows task type, not language, drives drift
+
+</td>
+<td width="50%">
+
+### 🤝 [Verification Strategies for Multi-Agent Advisory](https://github.com/bhoomi02-ai/cs5130-verification-advisory)
+**Active | Agentic Systems**
+
+How should multi-agent financial advisors check their work?
+- Tech: `Python` `Pydantic` `pandas` `LLM agents`
+- ⚖️ Compares no, self, peer and dedicated verification
+- 🧾 Synthetic client scenarios with a hidden deterministic checker
+- 📊 Tracks accuracy, tokens, latency and cost per strategy
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🌐 [Personal Portfolio Website](https://github.com/bhoomi02-ai/Personal-Portfolio-Website)
+**Live | Web Development**
+
+Responsive portfolio with a custom cream/brown theme
+- Tech: `Next.js 15` `React` `TailwindCSS` `Docker`
+- 🎞️ Lottie animations and a working contact form
+- 🚀 Deployed on Vercel
+
+</td>
+<td width="50%">
+
+### 📘 Coursework
+**MS in AI**
+
+Assignments and notebooks
+- 🧠 [NLP Assignment 1](https://github.com/bhoomi02-ai/NLP_assignment1)
+- 🤖 [Machine Learning Assignments](https://github.com/bhoomi02-ai/Machine-learning-assignments)
+- 🌀 [1D CNNs (AI Discussion 8)](https://github.com/bhoomi02-ai/AI-discussion-8)
+- 📓 [Discussion 2](https://github.com/bhoomi02-ai/Discussion2)
+
+</td>
+</tr>
+</table>
+
 ---
 
 ## 🏆 Achievements & Recognition
